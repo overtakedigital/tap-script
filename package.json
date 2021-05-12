@@ -13,6 +13,6 @@
     "dotenv": "^8.2.0",
     "fs-extra": "^8.1.0",
     "json2csv": "^4.5.4",
-    "nodemailer": "^6.4.2"
+    "nodemailer": "^6.4.16"
   }
 }
